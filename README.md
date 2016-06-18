@@ -2,7 +2,7 @@
 Image meta information viewer built by React Native.
 
 # Screen shot
-![demo](https://github.com/ar90n/imagemeta/blob/master/doc/demo.gif)
+<img src="https://github.com/ar90n/imagemeta/blob/master/doc/demo.gif" width="240">
 
 # Store URL
 Google Play: https://play.google.com/store/apps/details?id=net.ar90n.imagemeta
