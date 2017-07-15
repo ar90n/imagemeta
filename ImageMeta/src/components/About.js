@@ -31,6 +31,7 @@ const MenuItem = () => {
             <Button text='Manual' raised={true} onPress={Actions.Manual} />
             <Button text='Go to store page' raised={true} onPress={()=> Linking.openURL( Resources.STORE_PAGE_URI ) } />
             <Button text='Go to Github page' raised={true} onPress={()=> Linking.openURL( Resources.GITHUB_PAGE_URI ) } />
+            <Button text='Go to privacy policy page' raised={true} onPress={()=> Linking.openURL( Resources.PRIVACY_POLICY_PAGE_URI ) } />
         </View>
     );
 }
